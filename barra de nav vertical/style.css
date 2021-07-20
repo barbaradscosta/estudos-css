@@ -1,0 +1,20 @@
+ul{
+	list-style-type: none; /*Retira a bolinha da lista*/
+	margin: 0;
+	padding: 0;
+}
+ul a {
+	/*border: 1px solid black;*/
+	width: 200px;
+	height: 40px;
+	display: block;
+	color: black;
+	text-decoration: none;
+	text-indent: 40px;
+	line-height: 40px; /*altura da linha*/
+	background: url(img/menu.png);
+}
+a:hover, .selecionado a {
+	background-position: right bottom; 
+	color: white;
+}

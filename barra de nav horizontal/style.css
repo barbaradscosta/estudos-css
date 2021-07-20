@@ -1,0 +1,23 @@
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	width: 720px;
+	background: url(img/fundo-horizontal.png) repeat-x;
+	float: left;
+}
+ul li {
+	float: left;
+}
+ul a {
+	text-decoration: none;
+	display: block;
+	padding:  10px;
+	line-height: 12px;
+	color: white;
+	background: url(img/divisor.png) repeat-y;
+}
+ul a:hover {
+	color: black;
+	background: #44cade;
+}

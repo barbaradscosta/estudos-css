@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"al",
+				"alternate\tanimation-direction"
+			],
+			[
+				"animation-d",
+				"animation-direction\tproperty"
+			],
+			[
+				"anima",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"animat",
+				"animation-name\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"tex",
+				"text-shadow\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"box-",
+				"box-sizing\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"Re",
+				"restaurante"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"bord",
+				"border-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"borde",
+				"border\tproperty"
+			],
+			[
+				"lef",
+				"padding-left\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"lis",
+				"list-style\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"border-c",
+				"border-collapse\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"tec",
+				"text-decoration\tproperty"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"do",
+				"documentos"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/Transições/index.html",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/Transições/estilo.css",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/animações/estilo.css",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/animações/index.html",
+		"/C/Users/bárbara/Desktop/normalize.css",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/Sombras/estilo.css",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/Sombras/index.html",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/Degradê e transparencia/estilo.css",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/Degradê e transparencia/index.html",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/box sizing e cantos arredondados/normalize.css",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/box sizing e cantos arredondados/index.html",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/PARALLAX/index.html",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/PARALLAX/estilo.css",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/Site de notícias Cidade/index.html",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/Site de notícias Cidade/estilo.css",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/tabelas/style.css",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/layout/layout fixo/style.css",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/barra de nav horizontal/barra-horizontal.html",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/barra de nav vertical/barra-vertical.html",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/barra de nav horizontal/style.css",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/barra de nav vertical/style.css",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/barra de nav vertical/barra-vertical.html.html",
+		"/C/Users/bárbara/Desktop/CSS AVANÇADO/seletores.html",
+		"/C/Users/bárbara/Desktop/projeto 1/tecblog/css/style.css",
+		"/C/Users/bárbara/Desktop/projeto 1/tecblog/index.html",
+		"/C/Users/bárbara/Desktop/projeto 1/posicionamentos.html",
+		"/C/Users/bárbara/Desktop/projeto 1/flutuantes.html",
+		"/C/Users/bárbara/Desktop/projeto 1/Box model/index.html",
+		"/C/Users/bárbara/Desktop/projeto 1/Box model/style.css",
+		"/C/Users/bárbara/Desktop/projeto 1/Anna Bella/style.css",
+		"/C/Users/bárbara/Desktop/projeto 1/Anna Bella/contato.html",
+		"/C/Users/bárbara/Desktop/projeto 1/Anna Bella/biografia.html",
+		"/C/Users/bárbara/Desktop/projeto 1/Anna Bella/campanhas.html",
+		"/C/Users/bárbara/Desktop/projeto 1/index.html",
+		"/C/Users/bárbara/Desktop/projeto 1/css3/pagina1.html",
+		"/C/Users/bárbara/Desktop/projeto 1/css3/pagina2.html",
+		"/C/Users/bárbara/Desktop/projeto 1/css3/estilo.css",
+		"/C/Users/bárbara/Desktop/projeto 1/css3/inline_style.html",
+		"/C/Users/bárbara/Desktop/projeto 1/contato.html",
+		"/C/Users/bárbara/Desktop/ProjetoAula/index.html",
+		"/C/Users/bárbara/Desktop/ProjetoAula/css/estilo.css",
+		"/C/xampp/htdocs/webhaus/Reveal/index.html",
+		"/C/xampp/htdocs/webhaus/index.html",
+		"/C/Users/bárbara/Desktop/Pasta/index.html",
+		"/C/Users/bárbara/Desktop/FACULDADE/pratica7.html",
+		"/C/Users/bárbara/Desktop/index.html",
+		"/C/xampp/htdocs/webhaus/assets/css/bootstrap.css",
+		"/C/xampp/htdocs/webhaus/assets/css/bootstrap-responsive.css",
+		"/C/xampp/htdocs/webhaus/sistemasite.html",
+		"/C/Users/bárbara/Desktop/Alerta-pe/index.html",
+		"/C/xampp/htdocs/webhaus/metodologia.html",
+		"/C/xampp/htdocs/webhaus/processos.html",
+		"/C/xampp/htdocs/webhaus/assets/css/animate.css",
+		"/C/xampp/htdocs/webhaus/assets/css/style.css",
+		"/C/xampp/htdocs/webhaus/assets/css/overwrite.css",
+		"/C/xampp/htdocs/webhaus/assets/css/prettyPhoto.css",
+		"/C/xampp/htdocs/webhaus/assets/css/font-awesome.css",
+		"/C/xampp/htdocs/webhaus/components.html",
+		"/C/xampp/htdocs/site/index.html",
+		"/C/Users/bárbara/Desktop/Vesperr/index.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"}",
+			"padding",
+			"16px",
+			"Conteudo",
+			"logo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
